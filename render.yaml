@@ -1,6 +1,0 @@
-services:
-  - type: worker
-    name: as-video-generator
-    env: node
-    buildCommand: npm install
-    startCommand: npm start
